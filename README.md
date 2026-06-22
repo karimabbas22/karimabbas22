@@ -149,8 +149,8 @@ graph TD
 ### VC Fund Pitchdecks
 | Project | Context | Key Skills |
 |---|---|---|
-| [Silk Road Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Silk%20Ventures%20Pitch%20Deck.pdf) · [GP Doc](./Portfolio%20of%20Work/VC%20Pitchdecks/GP%20Document%20for%20Hedge%20Funds%20Silk%2) [...]
-| [Duneway Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Dunes%20Ventures%20Pitch%20Deck.pdf) · [Investment Memo](./Portfolio%20of%20Work/VC%20Pitchdecks/Investment%20Thesis.pdf) | Stanford [...]
+| [Silk Road Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Silk%20Ventures%20Pitch%20Deck.pdf) · [GP Doc](./Portfolio%20of%20Work/VC%20Pitchdecks/GP%20Document%20for%20Hedge%20Funds%20Silk%2) | UCL | Fund Presentation |
+| [Duneway Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Dunes%20Ventures%20Pitch%20Deck.pdf) · [Investment Memo](./Portfolio%20of%20Work/VC%20Pitchdecks/Investment%20Thesis.pdf) | Stanford | Complete MENA Fund Analysis | 
 | [Vensure Capital](./Portfolio%20of%20Work/VC%20Pitchdecks/Vensure%20Capital.pdf) | UCL | Fund management, DeFi, portfolio strategy |
 
 ### Startup Pitchdecks
