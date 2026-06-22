@@ -36,7 +36,7 @@ A group project producing a full white paper and presentation on Biconomy, a dec
 > **Skills developed**: Blockchain architecture, DeFi analysis, fintech product evaluation, white paper authoring  
 > **View**: [Biconomy White Paper](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Fintech%20Project%20copy.pdf) · [Presentation](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Group%20D%20-%20Presentation%20copy.pdf)
 
-### IFTE0015: Portfolio Management & Asset Allocation in PE and VC
+###  Portfolio Management & Asset Allocation in PE and VC
 
 #### Balfour Beatty — Equity Research Report
 
@@ -84,6 +84,12 @@ Designed and presented a full VC fund as General Partner & CEO. Silk Road Ventur
 > **Skills developed**: Fund structuring (LP/GP), portfolio construction, multi-method valuation, governance design  
 > **View**: [Silk Road Ventures Pitch Deck](./Portfolio%20of%20Work/VC%20Pitchdecks/Silk%20Ventures%20Pitch%20Deck.pdf) · [GP Document](./Portfolio%20of%20Work/VC%20Pitchdecks/GP%20Document%20for%20Hedge%20Funds%20Silk%20Road%20Ventures.pdf) · [LP Document](./Portfolio%20of%20Work/VC%20Pitchdecks/LP%20Document%20Silk%20Ventures.pdf)
 
+### Vensure Capital — VC Fund (Partner & CTO)
+
+Developed a theoretical $100M venture fund. As Partner & CTO, I contributed to fund strategy, deal sourcing, and portfolio construction. The fund targets DeFi, fintech infrastructure, and emerging technology companies, bringing together a team with backgrounds across institutional finance, venture capital, and blockchain.
+
+> **Skills developed**: Fund management, CTO leadership, deal origination, portfolio strategy  
+> **View**: [Vensure Capital](./Portfolio%20of%20Work/VC%20Pitchdecks/Vensure%20Capital.pdf)
 ---
 
 ## Outside — Independent & Professional Projects
@@ -103,13 +109,6 @@ A back-of-the-envelope analysis and investment recommendation for Khazna, an Egy
 
 > **Skills developed**: Emerging market fintech analysis, financial inclusion, ecosystem mapping  
 > **View**: [Khazna Pitchdeck](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Khazna%20Pitchdeck.pdf)
-
-### Vensure Capital — VC Fund (Partner & CTO)
-
-Co-founded Vensure Capital, a $100M venture fund. As Partner & CTO, I contributed to fund strategy, deal sourcing, and portfolio construction. The fund targets DeFi, fintech infrastructure, and emerging technology companies, bringing together a team with backgrounds across institutional finance, venture capital, and blockchain.
-
-> **Skills developed**: Fund management, CTO leadership, deal origination, portfolio strategy  
-> **View**: [Vensure Capital](./Portfolio%20of%20Work/VC%20Pitchdecks/Vensure%20Capital.pdf)
 
 ### Wandr — Startup (Misinformation Detection)
 
