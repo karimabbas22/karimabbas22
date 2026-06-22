@@ -150,13 +150,13 @@ graph TD
 | Project | Context | Key Skills |
 |---|---|---|
 | [Silk Road Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Silk%20Ventures%20Pitch%20Deck.pdf) · [GP Doc](./Portfolio%20of%20Work/VC%20Pitchdecks/GP%20Document%20for%20Hedge%20Funds%20Silk%20Road%20Ventures.pdf) · [LP Doc](./Portfolio%20of%20Work/VC%20Pitchdecks/LP%20Document%20Silk%20Ventures.pdf) | UCL — VC Fund Design | Fund structuring (LP/GP), portfolio construction, governance |
-| [Duneway Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Dunes%20Ventures%20Pitch%20Deck.pdf) · [Investment Memo](./Portfolio%20of%20Work/VC%20Pitchdecks/Investment%20Thesis.pdf) | Independent | MENA thematic investing, investment memorandums |
-| [Vensure Capital](./Portfolio%20of%20Work/VC%20Pitchdecks/Vensure%20Capital.pdf) | Independent | Fund management, DeFi, portfolio strategy |
+| [Duneway Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Dunes%20Ventures%20Pitch%20Deck.pdf) · [Investment Memo](./Portfolio%20of%20Work/VC%20Pitchdecks/Investment%20Thesis.pdf) | Stanford ASES | MENA thematic investing, investment memorandums |
+| [Vensure Capital](./Portfolio%20of%20Work/VC%20Pitchdecks/Vensure%20Capital.pdf) | UCL | Fund management, DeFi, portfolio strategy |
 
 ### Startup Pitchdecks
 | Project | Context | Key Skills |
 |---|---|---|
-| [Wandr](./Portfolio%20of%20Work/Startup%20Pitchdecks/Wandr.pdf) | Independent | Product design, market sizing, go-to-market |
+| [Wandr](./Portfolio%20of%20Work/Startup%20Pitchdecks/Wandr.pdf) | Stanford ASES | Product design, market sizing, go-to-market |
 
 ---
 
