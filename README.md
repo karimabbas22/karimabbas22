@@ -1,8 +1,8 @@
 # Hi, I'm Karim
 
-I'm currently working on my dissertation in venture capital, where I am exploring whether co-investment networks can help predict startup success and outcomes. I enjoy working on questions that sit between finance, data, and real-world decision making.
+I'm currently working on my dissertation in venture capital, where I am exploring whether co-investment networks can help predict startup success and outcomes. I enjoy working on questions that sit[...]
 
-I'm also building my Python skills and looking to collaborate on research in venture capital and private equity. My background includes venture capital, private equity, financial modeling, and analytical work across finance and startup-focused projects, so I like combining structured thinking with practical problem solving.
+I'm also building my Python skills and looking to collaborate on research in venture capital and private equity. My background includes venture capital, private equity, financial modeling, and anal[...]
 
 Outside of academics, I care about impact and leadership. I have worked on initiatives like Campaign52 in East Africa, and I enjoy staying active through jiu jitsu, calisthenics, and piano.
 
@@ -17,7 +17,7 @@ This repository maps my academic and professional journey across the **Universit
 
 **[Read the full journey →](./JOURNEY.md)**
 
-A chronological walkthrough from my BSc in Banking & Finance at Leeds (dissertation on PE impact in US pharma, Standard Chartered internship in Dubai), through my MSc in Private Equity, Venture Capital & Fintech at UCL (investment cases, VC fund design, fintech analysis, data science), and into independent ventures (Vensure Capital, Wandr).
+A chronological walkthrough from my BSc in Banking & Finance at Leeds (dissertation on PE impact in US pharma, Standard Chartered internship in Dubai), through my MSc in Private Equity, Venture Ca[...]
 
 ---
 
@@ -137,20 +137,20 @@ graph TD
 ### Reports & Investment Cases
 | Project | Context | Key Skills |
 |---|---|---|
-| [Dissertation: PE in US Pharma](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Dissertation%20in%20US%20Pharam%20Private%20Equity%20Impact.pdf) | Leeds BSc | Econometrics, panel regressions, academic research |
+| [Dissertation: PE in US Pharma](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Dissertation%20in%20US%20Pharam%20Private%20Equity%20Impact.pdf) | Leeds BSc | Econometrics, panel reg[...]
 | [Balfour Beatty Research Note](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/BalfourBeatty%20Research%20Note.pdf) | UCL | Equity research, DCF valuation, financial modelling |
 | [SigmaData Investment Case](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Sigmadata%20Investment%20Case.pdf) | UCL | VC due diligence, SaaS metrics, AI/NLP evaluation |
 | [Finvise Investment Case](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Investment%20Case%20Finvise.pdf) | UCL | Early-stage valuation, term sheets, cap tables |
 | [RCM US — Tiger Global](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Investment%20Case%20RCM%20US.pdf) | UCL | Healthcare fintech, competitive benchmarking |
 | [Khazna Investment Recommendation](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Khazna%20Pitchdeck.pdf) | Independent | Emerging market fintech, financial inclusion |
-| [Biconomy White Paper](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Fintech%20Project%20copy.pdf) · [Presentation](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Group%20D%20-%20Presentation%20copy.pdf) | UCL | Blockchain, DeFi, AI infrastructure |
-| [Shipping ML Forecasting](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Shipping%20Trends%20in%20EU%20Machien%20Learning%20Project%20.pdf) · [Code]([./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Shipping%20Project%20Code.pdf](https://github.com/karimabbas22/UK-EU-Container-Shipping-Volume-Analysis)) | UCL — Data Analytics | Python, panel regression, time-series ML |
+| [Biconomy White Paper](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Fintech%20Project%20copy.pdf) · [Presentation](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Grou[...]
+| [Shipping ML Forecasting](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Shipping%20Trends%20in%20EU%20Machien%20Learning%20Project%20.pdf) · [Code](https://github.com/karimabbas22/UK-EU-Container-Shipping-Volume-Analysis)
 
 ### VC Fund Pitchdecks
 | Project | Context | Key Skills |
 |---|---|---|
-| [Silk Road Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Silk%20Ventures%20Pitch%20Deck.pdf) · [GP Doc](./Portfolio%20of%20Work/VC%20Pitchdecks/GP%20Document%20for%20Hedge%20Funds%20Silk%20Road%20Ventures.pdf) · [LP Doc](./Portfolio%20of%20Work/VC%20Pitchdecks/LP%20Document%20Silk%20Ventures.pdf) | UCL — VC Fund Design | Fund structuring (LP/GP), portfolio construction, governance |
-| [Duneway Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Dunes%20Ventures%20Pitch%20Deck.pdf) · [Investment Memo](./Portfolio%20of%20Work/VC%20Pitchdecks/Investment%20Thesis.pdf) | Stanford ASES | MENA thematic investing, investment memorandums |
+| [Silk Road Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Silk%20Ventures%20Pitch%20Deck.pdf) · [GP Doc](./Portfolio%20of%20Work/VC%20Pitchdecks/GP%20Document%20for%20Hedge%20Funds%20Silk%2[...]
+| [Duneway Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Dunes%20Ventures%20Pitch%20Deck.pdf) · [Investment Memo](./Portfolio%20of%20Work/VC%20Pitchdecks/Investment%20Thesis.pdf) | Stanford [...]
 | [Vensure Capital](./Portfolio%20of%20Work/VC%20Pitchdecks/Vensure%20Capital.pdf) | UCL | Fund management, DeFi, portfolio strategy |
 
 ### Startup Pitchdecks
