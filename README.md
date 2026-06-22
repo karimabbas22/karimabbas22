@@ -144,7 +144,7 @@ graph TD
 | [RCM US — Tiger Global](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Investment%20Case%20RCM%20US.pdf) | UCL | Healthcare fintech, competitive benchmarking |
 | [Khazna Investment Recommendation](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Khazna%20Pitchdeck.pdf) | Independent | Emerging market fintech, financial inclusion |
 | [Biconomy White Paper](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Fintech%20Project%20copy.pdf) · [Presentation](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Group%20D%20-%20Presentation%20copy.pdf) | UCL | Blockchain, DeFi, AI infrastructure |
-| [Shipping ML Forecasting](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Shipping%20Trends%20in%20EU%20Machien%20Learning%20Project%20.pdf) · [Code](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Shipping%20Project%20Code.pdf) | UCL — Data Analytics | Python, panel regression, time-series ML |
+| [Shipping ML Forecasting](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Shipping%20Trends%20in%20EU%20Machien%20Learning%20Project%20.pdf) · [Code]([./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Shipping%20Project%20Code.pdf](https://github.com/karimabbas22/UK-EU-Container-Shipping-Volume-Analysis)) | UCL — Data Analytics | Python, panel regression, time-series ML |
 
 ### VC Fund Pitchdecks
 | Project | Context | Key Skills |
