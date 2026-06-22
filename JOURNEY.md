@@ -66,13 +66,6 @@ A research report analysing the AI-driven Revenue Cycle Management fintech marke
 > **Skills developed**: Healthcare fintech analysis, competitive benchmarking, institutional investor advisory  
 > **View**: [RCM US Investment Case](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Investment%20Case%20RCM%20US.pdf)
 
-#### Khazna — Startup Investment Recommendation
-
-A back-of-the-envelope analysis and investment recommendation for Khazna, an Egyptian fintech ($63M raised) providing earned wage access, digital wallets, micro-credit, and BNPL to Egypt's 35M+ underbanked workforce. Mapped the ecosystem, assessed B2B2C model dynamics, and evaluated the opportunity against Egypt's regulatory and macroeconomic backdrop.
-
-> **Skills developed**: Emerging market fintech analysis, financial inclusion, ecosystem mapping  
-> **View**: [Khazna Pitchdeck](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Khazna%20Pitchdeck.pdf)
-
 ### Data Analytics & Machine Learning Module
 
 #### UK–EU Shipping Volume Forecasting
@@ -91,18 +84,25 @@ Designed and presented a full VC fund as General Partner & CEO. Silk Road Ventur
 > **Skills developed**: Fund structuring (LP/GP), portfolio construction, multi-method valuation, governance design  
 > **View**: [Silk Road Ventures Pitch Deck](./Portfolio%20of%20Work/VC%20Pitchdecks/Silk%20Ventures%20Pitch%20Deck.pdf) · [GP Document](./Portfolio%20of%20Work/VC%20Pitchdecks/GP%20Document%20for%20Hedge%20Funds%20Silk%20Road%20Ventures.pdf) · [LP Document](./Portfolio%20of%20Work/VC%20Pitchdecks/LP%20Document%20Silk%20Ventures.pdf)
 
-#### Duneway Ventures — MENA Alternative Credit & Payments Fund
+---
+
+## Outside — Independent & Professional Projects
+
+*Applying academic rigour to real-world ventures.*
+
+### Duneway Ventures — MENA Alternative Credit & Payments Fund
 
 Co-designed a $20M seed-to-Series A fund investing in alternative credit and payment infrastructure for MENA's emerging private sector. The investment thesis centered on the region's structural gaps: SMEs represent 96% of businesses but receive just 8% of bank lending. Produced a full investment memorandum recommending Bokra at a $1.2M cheque size, with ecosystem mapping across Egypt, Saudi Arabia, UAE, and Jordan.
 
 > **Skills developed**: MENA market expertise, thematic fund design, investment memorandum writing  
 > **View**: [Dunes Ventures Pitch Deck](./Portfolio%20of%20Work/VC%20Pitchdecks/Dunes%20Ventures%20Pitch%20Deck.pdf) · [Investment Thesis / Memo](./Portfolio%20of%20Work/VC%20Pitchdecks/Investment%20Thesis.pdf)
 
----
+### Khazna — Startup Investment Recommendation
 
-## Outside — Independent & Professional Projects
+A back-of-the-envelope analysis and investment recommendation for Khazna, an Egyptian fintech ($63M raised) providing earned wage access, digital wallets, micro-credit, and BNPL to Egypt's 35M+ underbanked workforce. Mapped the ecosystem, assessed B2B2C model dynamics, and evaluated the opportunity against Egypt's regulatory and macroeconomic backdrop.
 
-*Applying academic rigour to real-world ventures.*
+> **Skills developed**: Emerging market fintech analysis, financial inclusion, ecosystem mapping  
+> **View**: [Khazna Pitchdeck](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Khazna%20Pitchdeck.pdf)
 
 ### Vensure Capital — VC Fund (Partner & CTO)
 
@@ -126,12 +126,12 @@ Looking across my journey, several threads run through everything:
 
 | Theme | Leeds | UCL | Outside |
 |---|---|---|---|
-| **Financial Analysis & Valuation** | Dissertation econometrics | DCF, VC method, comps across 5+ investment cases | Vensure fund strategy |
-| **Fintech & Innovation** | PE impact on pharma innovation | Biconomy, Finvise, Khazna, RCM fintechs | Wandr, Vensure |
-| **MENA & Emerging Markets** | Standard Chartered Dubai | Duneway Ventures, Khazna | Vensure |
+| **Financial Analysis & Valuation** | Dissertation econometrics | DCF, VC method, comps across investment cases | Vensure, Duneway, Khazna |
+| **Fintech & Innovation** | PE impact on pharma innovation | Biconomy, Finvise, RCM fintechs | Wandr, Vensure, Khazna |
+| **MENA & Emerging Markets** | Standard Chartered Dubai | — | Duneway Ventures, Khazna, Vensure |
 | **Data & Quantitative Methods** | Panel regressions (dissertation) | Python ML, shipping forecasting | Applied in deal evaluation |
-| **Venture Capital & Fund Design** | — | Silk Road Ventures, Duneway Ventures, 5 investment cases | Vensure Capital |
-| **Startup Building** | — | Wandr pitch | Wandr product |
+| **Venture Capital & Fund Design** | — | Silk Road Ventures, investment cases | Duneway Ventures, Vensure Capital |
+| **Startup Building** | — | — | Wandr, Khazna analysis |
 
 ---
 
