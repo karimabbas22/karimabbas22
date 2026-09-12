@@ -17,7 +17,7 @@ This repository maps my academic and professional journey across the **Universit
 
 **[Read the full journey →](./JOURNEY.md)**
 
-A chronological walkthrough from my BSc in Banking & Finance at Leeds (dissertation on PE impact in US pharma, Standard Chartered internship in Dubai), through my MSc in Private Equity, Venture Ca[...]
+A chronological walkthrough from my BSc in Banking & Finance at Leeds (dissertation on PE impact in US pharma, Standard Chartered internship in Dubai), through my MSc in Private Equity, Venture Capital with Financial technology. 
 
 ---
 
