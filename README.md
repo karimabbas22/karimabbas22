@@ -1,8 +1,8 @@
 # Hi, I'm Karim
 
-I'm currently working on my dissertation in venture capital, where I am exploring whether co-investment networks can help predict startup success and outcomes. I enjoy working on questions that sit[...]
+I'm currently working on my dissertation in venture capital, where I am exploring whether co-investment networks can help predict startup success and outcomes. 
 
-I'm also building my Python skills and looking to collaborate on research in venture capital and private equity. My background includes venture capital, private equity, financial modeling, and anal[...]
+I'm also building my Python skills and looking to collaborate on research in venture capital and private equity. My background includes venture capital, private equity, financial modeling, and analsis.
 
 Outside of academics, I care about impact and leadership. I have worked on initiatives like Campaign52 in East Africa, and I enjoy staying active through jiu jitsu, calisthenics, and piano.
 
