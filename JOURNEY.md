@@ -20,7 +20,7 @@ I tested how reliable venture capital exit predictions are when the investor co-
 
 > **Skills**: Python, machine learning, graph neural networks, network analysis, VC data analysis  
 > **Read**: [Full dissertation (PDF)](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Main-40%202%20copy.pdf)  
-> **Code**: The codebase is on my [GitHub profile](https://github.com/karimabbas22) in the repository called **Main 40**.
+> **Code**: The codebase is on my [GitHub profile](https://github.com/karimabbas22)..
 
 ---
 
