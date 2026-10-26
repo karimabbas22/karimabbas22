@@ -1,6 +1,6 @@
 # Hi, I'm Karim
 
-I recently completed my MSc dissertation at UCL, which tests how reliable venture capital exit predictions are when investor co-investment networks change. It compares standard tabular models with a graph neural network. [Read it here](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Main-40%202%20copy.pdf). The code is in my **Main 40** repository.
+I recently completed my MSc at UCL in VC, PE with Fintech. Th corner stone project of the master's was my dissertation, which tests how reliable venture capital exit predictions are when investor co-investment networks change. It compares standard tabular models with a graph neural network. [Read it here](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Main-40%202%20copy.pdf). 
 
 I'm also building my Python skills and looking to collaborate on research in venture capital and private equity. My background includes venture capital, private equity, financial modeling, and analsis.
 
