@@ -17,7 +17,7 @@ This repository maps my academic and professional journey across the **Universit
 
 **[Read the full journey →](./JOURNEY.md)**
 
-A chronological walkthrough from my BSc in Banking & Finance at Leeds (dissertation on PE impact in US pharma, Standard Chartered internship in Dubai), through my MSc in Private Equity, Venture Capital with Financial technology. 
+A chronological walkthrough from my BSc in Banking & Finance at Leeds (dissertation on PE impact in US pharma), through my MSc in Private Equity, Venture Capital with Financial technology. 
 
 ---
 
@@ -35,7 +35,6 @@ graph TD
     subgraph LEEDS ["University of Leeds"]
         direction LR
         DISS([Dissertation:\nPE in US Pharma])
-        SCB([Standard Chartered\nTreasury Markets])
     end
 
     subgraph UCL_GROUP ["UCL — MSc PE, VC & Fintech"]
@@ -74,7 +73,6 @@ graph TD
 
     DISS --- FA
     DISS --- DS
-    SCB --- EM
 
     %% ════════════════════════════════════════
     %% CONNECTIONS: UCL → Themes
@@ -119,7 +117,7 @@ graph TD
     classDef outsideStyle fill:#e8f5e9,stroke:#2e7d32,stroke-width:1.5px,color:#333;
 
     class FA,FT,VCD,DS,EM,SB theme;
-    class DISS,SCB leedsStyle;
+    class DISS leedsStyle;
     class BB,SIGMA,FINVISE,RCM,BICO,SHIP,SILK uclStyle;
     class DUNES,KHAZNA,VENSURE,WANDR outsideStyle;
 

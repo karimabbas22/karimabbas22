@@ -19,7 +19,7 @@ I tested how reliable venture capital exit predictions are when the investor co-
 - **Main contribution:** network features add a different kind of instability. Removing a few central investors barely moves aggregate accuracy, but it reshuffles which startups the model ranks as likely to exit.
 
 > **Skills**: Python, machine learning, graph neural networks, network analysis, VC data analysis  
-> **Read**: [Full dissertation (PDF)](./Main-40%202%20copy.pdf)  
+> **Read**: [Full dissertation (PDF)](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Main-40%202%20copy.pdf)  
 > **Code**: The codebase is on my [GitHub profile](https://github.com/karimabbas22) in the repository called **Main 40**.
 
 ---
@@ -31,10 +31,6 @@ I tested how reliable venture capital exit predictions are when the investor co-
 I studied how private equity investment affects innovation in US pharma, using firm-level data from 1985–2023 and t-tests, OLS, and random effects panel regressions. PE investment raised innovation output and R&D intensity without the negative leverage effects critics warn about.
 
 > **Read**: [Dissertation](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Dissertation%20in%20US%20Pharam%20Private%20Equity%20Impact.pdf)
-
-### Internship: Treasury Markets, Standard Chartered Bank (Dubai)
-
-Hands-on exposure to institutional banking, FX, and capital markets. It shaped my interest in cross-border payments and MENA fintech.
 
 ---
 
@@ -85,7 +81,7 @@ Hands-on exposure to institutional banking, FX, and capital markets. It shaped m
 | **Data & quantitative methods** | Leeds panel regressions, shipping forecasting, UCL dissertation (GNNs) |
 | **Venture capital & fund design** | UCL dissertation, Silk Road Ventures, Vensure, Duneway |
 | **Fintech & innovation** | Biconomy, Finvise, RCM US, Khazna, Wandr |
-| **MENA & emerging markets** | Standard Chartered Dubai, Duneway, Khazna |
+| **MENA & emerging markets** | Duneway, Khazna |
 
 ---
 
