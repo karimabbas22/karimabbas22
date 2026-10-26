@@ -1,6 +1,6 @@
 # Hi, I'm Karim
 
-I'm currently working on my dissertation in venture capital, where I am exploring whether co-investment networks can help predict startup success and outcomes. 
+I recently completed my MSc dissertation at UCL, which tests how reliable venture capital exit predictions are when investor co-investment networks change. It compares standard tabular models with a graph neural network. [Read it here](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Main-40%202%20copy.pdf). The code is in my **Main 40** repository.
 
 I'm also building my Python skills and looking to collaborate on research in venture capital and private equity. My background includes venture capital, private equity, financial modeling, and analsis.
 
@@ -17,7 +17,7 @@ This repository maps my academic and professional journey across the **Universit
 
 **[Read the full journey →](./JOURNEY.md)**
 
-A chronological walkthrough from my BSc in Banking & Finance at Leeds (dissertation on PE impact in US pharma), through my MSc in Private Equity, Venture Capital with Financial technology. 
+A walkthrough from my BSc in Banking & Finance at Leeds (dissertation on PE impact in US pharma) through my MSc in Venture Capital and Private Equity with Financial Technology at UCL, which ended with a dissertation on VC exit prediction.
 
 ---
 
@@ -39,6 +39,7 @@ graph TD
 
     subgraph UCL_GROUP ["UCL — MSc PE, VC & Fintech"]
         direction LR
+        MSCD([MSc Dissertation:\nVC Exit Prediction])
         BB([Balfour Beatty\nEquity Research])
         SIGMA([SigmaData\nInvestment Case])
         FINVISE([Finvise\nInvestment Case])
@@ -78,6 +79,9 @@ graph TD
     %% CONNECTIONS: UCL → Themes
     %% ════════════════════════════════════════
 
+    MSCD --- VCD
+    MSCD --- DS
+    MSCD --- FT
     BB --- FA
     SIGMA --- FA
     SIGMA --- VCD
@@ -118,7 +122,7 @@ graph TD
 
     class FA,FT,VCD,DS,EM,SB theme;
     class DISS leedsStyle;
-    class BB,SIGMA,FINVISE,RCM,BICO,SHIP,SILK uclStyle;
+    class MSCD,BB,SIGMA,FINVISE,RCM,BICO,SHIP,SILK uclStyle;
     class DUNES,KHAZNA,VENSURE,WANDR outsideStyle;
 
     style LEEDS fill:#fff5f5,stroke:#c62828,stroke-width:2px,color:#333;
@@ -135,7 +139,8 @@ graph TD
 ### Reports & Investment Cases
 | Project | Context | Key Skills |
 |---|---|---|
-| [Dissertation: PE in US Pharma](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Dissertation%20in%20US%20Pharam%20Private%20Equity%20Impact.pdf) | Leeds BSc | Econometrics, panel reg[...]
+| [**MSc Dissertation: VC Exit Prediction**](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Main-40%202%20copy.pdf) · Code: **Main 40** repo | UCL MSc | Python, graph neural networks, network analysis, VC data |
+| [Dissertation: PE in US Pharma](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Dissertation%20in%20US%20Pharam%20Private%20Equity%20Impact.pdf) | Leeds BSc | Econometrics, panel regressions, academic research |
 | [Balfour Beatty Research Note](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/BalfourBeatty%20Research%20Note.pdf) | UCL | Equity research, DCF valuation, financial modelling |
 | [SigmaData Investment Case](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Sigmadata%20Investment%20Case.pdf) | UCL | VC due diligence, SaaS metrics, AI/NLP evaluation |
 | [Finvise Investment Case](./Portfolio%20of%20Work/Reports%20%26%20Investment%20Cases/Investment%20Case%20Finvise.pdf) | UCL | Early-stage valuation, term sheets, cap tables |
@@ -147,7 +152,7 @@ graph TD
 ### VC Fund Pitchdecks
 | Project | Context | Key Skills |
 |---|---|---|
-| [Silk Road Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Silk%20Ventures%20Pitch%20Deck.pdf) · [GP Doc](./Portfolio%20of%20Work/VC%20Pitchdecks/GP%20Document%20for%20Hedge%20Funds%20Silk%2) | UCL | Fund Presentation |
+| [Silk Road Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Silk%20Ventures%20Pitch%20Deck.pdf) · [GP Doc](./Portfolio%20of%20Work/VC%20Pitchdecks/GP%20Document%20for%20Hedge%20Funds%20Silk%20Road%20Ventures.pdf) · [LP Doc](./Portfolio%20of%20Work/VC%20Pitchdecks/LP%20Document%20Silk%20Ventures.pdf) | UCL | Fund structuring, portfolio construction |
 | [Duneway Ventures](./Portfolio%20of%20Work/VC%20Pitchdecks/Dunes%20Ventures%20Pitch%20Deck.pdf) · [Investment Memo](./Portfolio%20of%20Work/VC%20Pitchdecks/Investment%20Thesis.pdf) | Stanford | Complete MENA Fund Analysis | 
 | [Vensure Capital](./Portfolio%20of%20Work/VC%20Pitchdecks/Vensure%20Capital.pdf) | UCL | Fund management, DeFi, portfolio strategy |
 
